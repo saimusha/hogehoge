@@ -23,5 +23,7 @@ class practice{
 
     static int div(int a, int b){
         //’†g‘‚¢‚Ä‚Ë
+        int division = a / b;
+        return division;
     }
 }
